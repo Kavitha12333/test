@@ -2,7 +2,7 @@ import React from 'react'
 
 const Index = () => {
   return (
-    <div>contact</div>
+    <div>contact page</div>
   )
 }
 
